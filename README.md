@@ -45,7 +45,7 @@ The dataset used for this analysis is sourced from an e-commerce platform, conta
 
 #Analysis and Methodology
 
-* Data Cleaning:
+*Data Cleaning:
 Handling missing values and outliers.
 Normalizing data formats (e.g., date format).
 Removing duplicates and inconsistencies.
